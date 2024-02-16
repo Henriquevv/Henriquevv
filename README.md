@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Sistemas de Informação na **UFS**
 
-- 🌱 Atualmente, estou aprendendo **Python, Javascript e C.**
+- 🌱 Atualmente estou aprendendo **Python, Javascript e C.**
 
 - 📫 Contato **henriquevalentimbastos@hotmail.com**
 
